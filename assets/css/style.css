@@ -56,7 +56,7 @@ nav {
 
 .nav-option {
 	float: left;
-	border-right: 1px solid #777777;
+	border-right: 1px solid #dddddd;
 	margin-left: 5px;
 	margin-right: 5px;
 }
@@ -91,7 +91,7 @@ nav {
 
 #about-head {
 	color: #4aaaa5;
-	border-bottom: 1px solid #777777;
+	border-bottom: 1px solid #dddddd;
 	margin: 30px 20px 20px 30px;
 	padding-top: 10px;
 	padding-left: 0px;
@@ -102,13 +102,14 @@ nav {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 	margin: 30px;
+	line-height: 20px;
 }
 
 #profile-pic {
 	height: 35%;
 	width: 35%;
 	float: left;
-	margin: 0px 20px 20px 0px;
+	margin: 0px 20px 20px 30px;
 }
 
 /* Sidebar */
@@ -124,7 +125,7 @@ nav {
 h2 {
 	color: #4aaaa5;
 	font-size: 24px;
-	border-bottom: 1px solid #777777;
+	border-bottom: 1px solid #dddddd;
 	padding: 30px 20px 15px 20px;
 	margin-right: 25px;
 	margin-left: 25px;
@@ -157,7 +158,7 @@ img {
 	background: #666666;
 	border-top: 8px solid #4aaaa5;
 	height: 100px;
-	position: absolute;
+	position: fixed;
 	left: 0;
 	bottom: 0;
 	width: 100%;
