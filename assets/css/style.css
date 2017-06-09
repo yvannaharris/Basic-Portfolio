@@ -80,7 +80,8 @@ nav {
 	width: 960px;
 	clear: both;
 	margin: auto;
-	margin-bottom: 110px;
+	margin-bottom: 150px;
+	overflow: hidden;
 }
 
 .bio {
@@ -93,7 +94,7 @@ nav {
 
 #about-head {
 	color: #4aaaa5;
-	border-bottom: 1px solid #dddddd;
+	border-bottom: 2px solid #dddddd;
 	margin: 30px 20px 20px 30px;
 	padding-top: 10px;
 	padding-left: 0px;
@@ -147,10 +148,12 @@ h2 {
 }
 
 
+
 .thumbnail {
 	height: 70px;
 	width: 70px;
 	margin: 25px 3px 40px 3px;
+	float: left;
 }
 
 
@@ -164,6 +167,7 @@ h2 {
 	left: 0;
 	bottom: 0;
 	width: 100%;
+	clear: both;
 }
 
 #copyright {
