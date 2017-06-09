@@ -16,13 +16,14 @@
 
 
 .desc {
-	padding: 15px;
+	padding: 13px;
 	text-align: center;
 	position: relative;
-	top: -55px;
+	top: -57px;
 	background: #4aaaa5;
-	width: 240px;
+	width: 244px;
 	color: #ffffff;
+	font-size: 20px;
 }
 
 .row {
