@@ -3,6 +3,7 @@ body {
 	background: url('../images/concrete-texture/concrete-texture.png');
 }
 
+
 /* Header */
 .top-section {
 	background: #ffffff;
@@ -42,7 +43,7 @@ nav {
 	margin: auto;
 
 }
-/*relative positioning?*/
+
 #full-nav {
 	list-style-type: none;
 	padding: 0;
@@ -79,6 +80,7 @@ nav {
 	width: 960px;
 	clear: both;
 	margin: auto;
+	margin-bottom: 110px;
 }
 
 .bio {
@@ -145,7 +147,7 @@ h2 {
 }
 
 
-img {
+.thumbnail {
 	height: 70px;
 	width: 70px;
 	margin: 25px 3px 40px 3px;
